@@ -10,3 +10,10 @@ A software engineer based in Beijing.
 
 ![Tools I use](https://skillicons.dev/icons?i=vscode,pnpm,vite,rollup,docker,git,github,discord)
 
+### 🚀 Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
