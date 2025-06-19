@@ -8,5 +8,5 @@ A software engineer based in Beijing.
 
 ### 🛠 Tools I use
 
-![Tools I use](https://skillicons.dev/icons?i=vscode,pnpm,vite,rollup,rolldown,git,github,discord)
+![Tools I use](https://skillicons.dev/icons?i=vscode,pnpm,vite,rollup,docker,git,github,discord)
 
