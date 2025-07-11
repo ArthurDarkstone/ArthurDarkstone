@@ -1,6 +1,6 @@
 ### Hi! This is Arthur Darkstone 👋
 
-A software engineer based in Beijing. Pre @Tencent · Pre @JD.com
+A software engineer based in Beijing. Pre @Tencent · DoomFist Player😁
 
 ## 🔭 Tech stack
 
